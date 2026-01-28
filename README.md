@@ -10,8 +10,8 @@
 
 - 🎓 Formada no IFSP Campus São Carlos em Técnico de Informática para Internet
 - 📖 Experiência de +3 anos com projetos acadêmicos
-- 💻 Experiência de +8 meses no mercado de trabalho 
-- ❤️ Fã de Java Web e PHP
+- 💻 Experiência de +1 ano no mercado de trabalho 
+- ❤️ Fã de React
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFerCordeiro&layout=compact&theme=tokyonight)
 
@@ -27,7 +27,8 @@
   <img align="center" alt="Laurinha-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Luarinha-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Laurinha-AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-          
+  <img align="center" alt="Laurinha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+
 </div>
   
   ##
