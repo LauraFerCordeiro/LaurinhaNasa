@@ -1,5 +1,5 @@
 ### Meu nome é Laura, tudo certo?
-<i> Sou Dev Full Stack & </i> 
+<i> Sou Dev Full Stack, mas prefiro trabalhar na parte do frontend & </i> 
 <i> Atualmente bolsista técnica no IFSC - USP na parte de programação e eletrônica </i>
 ### Bem vindo ao meu perfil! 👀
 
